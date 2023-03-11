@@ -1,9 +1,3 @@
-<div align="center">
-  <a href="https://open.spotify.com/user/k20jsyl60b068wqm2b7vnpdkb">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Tocado recentemente"  />
-  </a>
-</div>
-
 ###
 
 <div align="center">
@@ -14,13 +8,10 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" width="26" alt="python logo"  />
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/JikanTribal/JikanTribal/blob/output/snake.svg" alt="Snake animation" />
-
 ###
 
 ###
